@@ -13,7 +13,6 @@ def insercion_ordenar(lista):
         lista[j + 1] = temp
         i += 1
 
-# Ejemplo de uso
 lista = [5, 3, 8, 1, 2, 7]
 insercion_ordenar(lista)
 print("Lista ordenada:", lista)
